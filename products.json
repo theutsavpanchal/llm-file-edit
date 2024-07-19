@@ -1,0 +1,22 @@
+{
+    "name": "products", 
+    "product": {
+        "id": "P54321",
+        "name": "Widget-A1",
+        "category": "Electronics",
+        "manufacturer": "WidgetMakers Inc.",
+        "date_of_manufacture": "2024-05-20",
+        "specifications": {
+            "weight_g": 350,
+            "dimensions_mm": {
+                "length": 150,
+                "width": 75,
+                "height": 30
+            },
+            "material": "Aluminum",
+            "color": "Black",
+            "warranty_years": 2
+        },
+        "price_usd": 49
+    }
+}

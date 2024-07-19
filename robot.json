@@ -1,0 +1,29 @@
+{
+    "name": "robot",
+    "robot": {
+        "id": "R999",
+        "name": "RoboWorker-3000",
+        "type": "Articulated",
+        "manufacturer": "RoboCorp",
+        "year_of_manufacture": 2022,
+        "specifications": {
+            "payload_capacity_kg": 150,
+            "reach_mm": 3000,
+            "accuracy_mm": 0.05,
+            "speed_mm_per_sec": 2000,
+            "power_supply_v": 400,
+            "control_system": "RoboController-X",
+            "sensors": [
+                "proximity",
+                "vision",
+                "force"
+            ]
+        },
+        "maintenance_schedule": {
+            "last_maintenance_date": "2024-07-01",
+            "next_maintenance_date": "2024-12-01",
+            "maintenance_frequency_months": 6
+        },
+        "status": "operational"
+    }
+}
